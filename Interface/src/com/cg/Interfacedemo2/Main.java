@@ -10,11 +10,11 @@ interface In1
 
 	}
 
-public class Main {
+public class Main implements In1{
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
+In1.display();
 	}
 
 }
