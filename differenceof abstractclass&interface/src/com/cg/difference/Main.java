@@ -1,4 +1,4 @@
-//A simple example where we are using interface and abstract class both
+//A simple example where we are using interface and abstract class both.
 
 
 //Creating interface that has 4 methods
